@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("static/images/fondo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header{
+    padding: 10px 5%;
+    background-color: white;
+    position: fixed;
+    color: dark-blue;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+header > *{
+    display: inline-block;
+    width: 450px;
+}
+
+h1{
+    margin-bottom: 12px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 140, 255);
+    margin: 0 10px;
+}
+
+.banner {
+    padding: 20% 5%;
+    color: white;
+    font-size: 30px;
+}
+
+.in{
+    width: 800px;
+}
+
+#img {
+    width: 730px;
+    height: auto;
+}
+
+#img2 {
+    width: 700px;
+    height: auto;
+}
+
+#f35 {
+    padding: 10px 5%;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#f35 > *{
+    font-size: 30px;
+    vertical-align: middle;
+    display: inline-block;
+    width: 500px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+#f22 {
+    padding: 10px 5%;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#f22 > *{
+    font-size: 30px;
+    vertical-align: middle;
+    display: inline-block;
+    width: 500px;
+    color: white;
+    margin-top: 30px;
+}
+
+
+#info{
+    background-image: url('pattern.jpg');
+    padding: 200px 0px;
+    font-size: 25px;
+    width: 500px;
+    text-align: center;
+    color: white;
+}
