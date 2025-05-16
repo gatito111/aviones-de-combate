@@ -88,9 +88,9 @@ a{
 
 #info{
     background-image: url('pattern.jpg');
-    padding: 200px 0px;
+    padding: 200px 300px;
     font-size: 25px;
-    width: 700px;
+    width: 500px;
     text-align: center;
     color: white;
 }
